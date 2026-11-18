@@ -1,0 +1,16 @@
+==================================================
+              RISK AND ROLL - RULES               
+==================================================
+1. Objective: Race against your opponent to reach 
+   a score of 100 points first!
+2. Turn Flow: On your turn, roll the dice and add 
+   the value to your current turn score. You can 
+   choose to hold your points safely or roll again.
+3. The Danger (1s): If you roll a 1, your turn score 
+   wipes to 0 unless you have an active Shield!
+4. Power-Ups & Shop: Earn coins after every turn to 
+   spend in the Item Shop on Shields, Rerolls, and 
+   Double Points boosts.
+5. Timed Mode: Make your decisions quickly under the 
+   ticking clock or the game will default your choice!
+==================================================
