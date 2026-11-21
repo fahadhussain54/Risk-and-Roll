@@ -38,7 +38,7 @@ int main() {
 
 //Main game logic function
 void startGame() {
-	int playerScore[2] = {90, 90};
+	int playerScore[2] = {0, 0};
 	char playersName[2][50];
 	int shields[2] = {1,1};
 	int rerolls[2] = {1,1};
