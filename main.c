@@ -150,7 +150,6 @@ void startGame() {
 			playerTurn = switchTurn(playerTurn);
 		} else if (continueRolling == 'N' || continueRolling == 'n') {
 			printf("%s chooses to roll again!\n\n", playersName[playerTurn]);
-			continue;
 		}
 	}
 }
